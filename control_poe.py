@@ -8,7 +8,7 @@ import argparse
 
 class ControlPOE:
     '''
-    Turns POE ports on GS100TP on/off
+    Turns POE ports on GS110TP on/off
     '''
     name = 'ControlPOE'
     def __init__(self, ip, password):
